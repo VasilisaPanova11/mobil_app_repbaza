@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1076753390671",
+    "firebase_url": "https://kurs-v1-e49d8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kurs-v1-e49d8",
+    "storage_bucket": "kurs-v1-e49d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076753390671:android:838fb15cc040bc2ad61e3a",
+        "android_client_info": {
+          "package_name": "com.example.kurs_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Ak6qzKmd-uoj0OaJm35WSAlLnvGPGJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

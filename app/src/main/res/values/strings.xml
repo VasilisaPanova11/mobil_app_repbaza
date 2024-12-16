@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Арендодатель 3000</string>
+    <string name="Text_Elogin">Введите вашу почту</string>
+    <string name="Text_Plogin">Введите ваш пароль</string>
+    <string name="login_button">Вход</string>
+    <string name="toregistration">Нет аккаунта? Зарегистрируйтесь</string>
+    <string name="Text_Eregistration">Введите вашу почту</string>
+    <string name="Text_Uregistration">Введите ваше имя пользователя</string>
+    <string name="Text_Pregistration">Введите ваш пароль</string>
+    <string name="Text_Pregistrationconfirm">Повторите ваш пароль</string>
+    <string name="registration_button">Зарегистрироваться</string>
+    <string name="back_button">Назад</string>
+    <string name="logout_button">Меню</string>
+    <string name="box">Арендовать</string>
+    <string name="Menu_logout">Выйти</string>
+    <string name="Menu_autor">Об авторе</string>
+    <string name="Menu_application">О приложении</string>
+    <string name="anime_button">Запустить анимацию</string>
+</resources>
